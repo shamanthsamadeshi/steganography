@@ -1,24 +1,27 @@
 
-# Simple STEGANOGRAPHY tool.
+## Simple STEGANOGRAPHY tool using Python.
 
-##Author : Shamanth Samadeshi
+## Author : Shamanth Samadeshi
 
-##Github : https://github.com/shamanthsamadeshi
+## Github : https://github.com/shamanthsamadeshi
 
 
-##HELP :
+## HELP :
 
  --carrier    : Give path of carrier file which will contain our text
+
  --stego_text : Enter text to hide
+
  --stego_find : Give path of image which contains hidden text
 
 
-##REQUIREMENTS :
+
+## REQUIREMENTS :
  
  pip install steganography 
 
 
-##USAGE : 
+## USAGE : 
 
 #Hide
 
