@@ -1,6 +1,6 @@
 # This script hide's text behind any media file like jpg file, mp3 file  ecetera.
 # This script accepts two parameter for hiding text and one parameter for finding text.
-# Please install steganography python library by - pip install steganography
+# Please install steganography python library by - pip install -r steganography
 # This script is compatible with python 2.7
 
 from __future__ import absolute_import,unicode_literals
