@@ -18,7 +18,7 @@
 
 ## REQUIREMENTS :
  
- pip install steganography 
+ pip install -r steganography 
 
 
 ## USAGE : 
@@ -29,4 +29,4 @@
 
 #Retrive 
 
- python stego.py --stego_find "image_name.jpg/jpeg/png" 
+ python stego.py --stego_find "image_name" 
