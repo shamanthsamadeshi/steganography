@@ -1,12 +1,14 @@
-Simple STEGANOGRAPHY tool using Python.
+##Simple STEGANOGRAPHY tool using Python.
 <br>
-Author : Shamanth S Samadeshi
+###Author : Shamanth S Samadeshi
 <br>
-Github : https://github.com/shamanthss 
+##Github : https://github.com/shamanthss
+<br>
+##Twitter : https://twitter.com/shamanthss 
 
 <br>
 
-# HELP :
+# #HELP :
 
   --carrier    : Give path of carrier file which will contain our text
 
@@ -16,13 +18,13 @@ Github : https://github.com/shamanthss
 
 <br>
 
-# REQUIREMENTS :
+# #REQUIREMENTS :
  
   pip install -r steganography 
 
 <br>
 
-# USAGE : 
+# #USAGE : 
 
  `Hide`: python stego.py --carrier --stego_text "Enter Text"
 
