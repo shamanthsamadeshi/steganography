@@ -1,8 +1,17 @@
 Simple STEGANOGRAPHY tool using Python.
-Author : Shamanth S Samadeshi
-Github : https://github.com/shamanthss
 
 <br>
+
+Author : Shamanth S Samadeshi
+
+<br>
+
+Github : https://github.com/shamanthss 
+
+<br>
+
+<br>
+
 # HELP :
 
   --carrier    : Give path of carrier file which will contain our text
