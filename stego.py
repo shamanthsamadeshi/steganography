@@ -3,9 +3,10 @@
 # Please install steganography python library by - pip install -r steganography
 # This script is compatible with python 2.7
 
-from __future__ import absolute_import,unicode_literals
+from __future__ import absolute_import, unicode_literals
 import argparse
 from steganography.steganography import Steganography
+
 parser=argparse.ArgumentParser()
 parser.add_argument("--carrier",help="To give path of carrier file which will contain the text.")
 parser.add_argument("--stego_text",help="To enter the text to hide.")
