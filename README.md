@@ -1,12 +1,10 @@
 
-## Simple STEGANOGRAPHY tool using Python.
-
-## Author : Shamanth Samadeshi
-
-## Github : https://github.com/shamanthsamadeshi
+Simple STEGANOGRAPHY tool using Python.
+Author : Shamanth S Samadeshi
+Github : https://github.com/shamanthss
 
 
-## HELP :
+``HELP`` :
 
  --carrier    : Give path of carrier file which will contain our text
 
@@ -16,17 +14,13 @@
 
 
 
-## REQUIREMENTS :
+``REQUIREMENTS`` :
  
  pip install -r steganography 
 
 
-## USAGE : 
+``USAGE`` : 
 
-#Hide
+`Hide`: python stego.py --carrier --stego_text "Enter Text"
 
- python stego.py --carrier --stego_text "Enter Text"
-
-#Retrive 
-
- python stego.py --stego_find "image_name" 
+`Retrive`: python stego.py --stego_find "image_name"
