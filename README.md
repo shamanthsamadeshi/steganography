@@ -4,26 +4,26 @@ Author : Shamanth S Samadeshi
 
 Github : https://github.com/shamanthss
 
-<br>
+<br> <br>
 
-`` #HELP :
+#HELP :
 
- --carrier    : Give path of carrier file which will contain our text
+  --carrier    : Give path of carrier file which will contain our text
 
- --stego_text : Enter text to hide
+  --stego_text : Enter text to hide
 
- --stego_find : Give path of image which contains hidden text
+  --stego_find : Give path of image which contains hidden text
 
 <br>
 
 #REQUIREMENTS :
  
- pip install -r steganography 
+  pip install -r steganography 
 
 <br>
 
 #USAGE` : 
 
-`Hide`: python stego.py --carrier --stego_text "Enter Text"
+ `Hide`: python stego.py --carrier --stego_text "Enter Text"
 
-`Retrive`: python stego.py --stego_find "image_name" ``
+ `Retrive`: python stego.py --stego_find "image_name"
