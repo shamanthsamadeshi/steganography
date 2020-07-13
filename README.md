@@ -6,7 +6,7 @@ Github : https://github.com/shamanthss
 
 <br>
 
-` #HELP :
+`` #HELP :
 
  --carrier    : Give path of carrier file which will contain our text
 
@@ -26,4 +26,4 @@ Github : https://github.com/shamanthss
 
 `Hide`: python stego.py --carrier --stego_text "Enter Text"
 
-`Retrive`: python stego.py --stego_find "image_name" `
+`Retrive`: python stego.py --stego_find "image_name" ``
