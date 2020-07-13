@@ -1,12 +1,8 @@
 Simple STEGANOGRAPHY tool using Python.
 <br>
 Author : Shamanth S Samadeshi
-
 <br>
-
 Github : https://github.com/shamanthss 
-
-<br>
 
 <br>
 
