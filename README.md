@@ -22,7 +22,7 @@ Github : https://github.com/shamanthss
 
 <br>
 
-# USAGE` : 
+# USAGE : 
 
  `Hide`: python stego.py --carrier --stego_text "Enter Text"
 
