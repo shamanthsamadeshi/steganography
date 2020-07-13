@@ -6,7 +6,7 @@ Github : https://github.com/shamanthss
 
 <br> <br>
 
-#HELP :
+# HELP :
 
   --carrier    : Give path of carrier file which will contain our text
 
@@ -16,13 +16,13 @@ Github : https://github.com/shamanthss
 
 <br>
 
-#REQUIREMENTS :
+# REQUIREMENTS :
  
   pip install -r steganography 
 
 <br>
 
-#USAGE` : 
+# USAGE` : 
 
  `Hide`: python stego.py --carrier --stego_text "Enter Text"
 
