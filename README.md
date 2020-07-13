@@ -1,5 +1,4 @@
 # Simple STEGANOGRAPHY tool using Python.
-
 <br>
 ##Author : Shamanth S Samadeshi
 <br>
@@ -7,6 +6,7 @@
 <br>
 ##Twitter : https://twitter.com/shamanthss 
 
+<br>
 <br>
 
 # #HELP :
