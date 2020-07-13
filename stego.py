@@ -1,4 +1,4 @@
-# This script hide's text behind any media file like jpg file, mp3 file  ecetera.
+# This script hides text behind any media file like jpg, png, mp3, wav, etc.
 # This script accepts two parameter for hiding text and one parameter for finding text.
 # Please install steganography python library by - pip install -r steganography
 # This script is compatible with python 2.7
@@ -7,9 +7,9 @@ from __future__ import absolute_import,unicode_literals
 import argparse
 from steganography.steganography import Steganography
 parser=argparse.ArgumentParser()
-parser.add_argument("--carrier",help="Give path of carrier file which will contain our text.")
-parser.add_argument("--stego_text",help="Enter text to hide.")
-parser.add_argument("--stego_find",help="Give path of image which contains hidden text.")
+parser.add_argument("--carrier",help="To give path of carrier file which will contain the text.")
+parser.add_argument("--stego_text",help="To enter the text to hide.")
+parser.add_argument("--stego_find",help="To give path of image which contains hidden text.")
 args=parser.parse_args()
 
 # Function for hide the message
