@@ -1,7 +1,5 @@
 Simple STEGANOGRAPHY tool using Python.
-
 <br>
-
 Author : Shamanth S Samadeshi
 
 <br>
