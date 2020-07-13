@@ -21,7 +21,7 @@
 
 # #REQUIREMENTS :
  
-  pip install -r steganography 
+   pip install steganography 
 
 <br>
 
