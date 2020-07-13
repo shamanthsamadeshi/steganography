@@ -1,4 +1,4 @@
-# Simple STEGANOGRAPHY tool using Python.
+# Simple STEGANOGRAPHY tool using Python(2.7).
 <br>
 ##Author : Shamanth S Samadeshi
 <br>
